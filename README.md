@@ -2,7 +2,8 @@
 # Condenser
 
 
-Condenser is the react.js web interface to the world's first and best blockchain-based social media platform, steemit.com.  It uses [STEEM](https://github.com/steemit/steem), a blockchain powered by Graphene 2.0 technology to store JSON-based content for a plethora of web applications.   
+Condenser is the react.js web interface to the world's first and best blockchain-based social media platform, 
+it.com.  It uses [STEEM](https://github.com/steemit/steem), a blockchain powered by Graphene 2.0 technology to store JSON-based content for a plethora of web applications.   
 
 ## Why would I want to use Condenser (steemit.com front-end)?
 * Learning how to build blockchain-based web applications using STEEM as a content storage mechanism in react.js
@@ -80,7 +81,7 @@ yarn run start
 
 It will take quite a bit longer to start in this mode (~60s) as it needs to build and start the webpack-dev-server.
 
-By default you will be connected to steemit.com's public steem node at `wss://steemd.steeemit.com`. This is actually on the real blockchain and you would use your regular account name and credentials to login - there is not an official separate testnet at this time. If you intend to run a full-fledged site relying on your own, we recommend looking into running a copy of `steemd` locally instead [https://github.com/steemit/steem](https://github.com/steemit/steem).
+By default you will be connected to steemit.com's public steem node at `wss://steemd.steemit.com`. This is actually on the real blockchain and you would use your regular account name and credentials to login - there is not an official separate testnet at this time. If you intend to run a full-fledged site relying on your own, we recommend looking into running a copy of `steemd` locally instead [https://github.com/steemit/steem](https://github.com/steemit/steem).
 
 #### Configuration
 
